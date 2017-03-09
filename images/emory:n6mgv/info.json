@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json", 
+  "@id": "/primer-of-college-football-independent-with-zoom/images/emory:n6mgv", 
+  "height": 2069, 
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json", 
+    {
+      "formats": [
+        "jpg"
+      ], 
+      "qualities": [
+        "default"
+      ]
+    }
+  ], 
+  "protocol": "http://iiif.io/api/image", 
+  "sizes": [
+    {
+      "height": 259, 
+      "width": 191
+    }, 
+    {
+      "height": 129, 
+      "width": 96
+    }, 
+    {
+      "height": 65, 
+      "width": 48
+    }, 
+    {
+      "height": 32, 
+      "width": 24
+    }, 
+    {
+      "height": 16, 
+      "width": 12
+    }, 
+    {
+      "height": 8, 
+      "width": 6
+    }, 
+    {
+      "height": 4, 
+      "width": 3
+    }, 
+    {
+      "height": 2, 
+      "width": 1
+    }, 
+    {
+      "height": 1, 
+      "width": 1
+    }
+  ], 
+  "tiles": [
+    {
+      "height": 512, 
+      "scaleFactors": [
+        1, 
+        2, 
+        4
+      ], 
+      "width": 512
+    }
+  ], 
+  "width": 1528
+}
